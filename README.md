@@ -2,6 +2,8 @@
 
 ![dmorita00](https://github-readme-stats.vercel.app/api?username=dmorita00&count_private=true&show_icons=true&theme=dracula)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dmorita00&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **dmorita00/dmorita00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
