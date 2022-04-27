@@ -1,10 +1,10 @@
 ### Hi there 👋
 
 <a href="https://github.com/dmorita00">
-  <img width="500" align="center" src="https://github-readme-stats.vercel.app/api?username=dmorita00&count_private=true&show_icons=true&theme=dracula" />
+  <img width="450" align="center" src="https://github-readme-stats.vercel.app/api?username=dmorita00&count_private=true&show_icons=true&theme=dracula" />
 </a>
 <a href="https://github.com/dmorita00">
-  <img width="400" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dmorita00&layout=compact" />
+  <img width="350" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dmorita00&layout=compact" />
 </a>
 
 <!--
