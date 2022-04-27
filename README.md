@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <a href="https://github.com/dmorita00">
-  <img width="450" align="left" src="https://github-readme-stats.vercel.app/api?username=dmorita00&count_private=true&show_icons=true&theme=dracula" />
+  <img width="440" align="left" src="https://github-readme-stats.vercel.app/api?username=dmorita00&count_private=true&show_icons=true&theme=dracula" />
 </a>
 <a href="https://github.com/dmorita00">
   <img width="370" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dmorita00&layout=compact" />
