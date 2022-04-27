@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![dmorita00](https://github-readme-stats.vercel.app/api?username=dmorita00&count_private=true&show_icons=true)
+![dmorita00](https://github-readme-stats.vercel.app/api?username=dmorita00&count_private=true&show_icons=true&theme=dracula)
 
 <!--
 **dmorita00/dmorita00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
