@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dmorita00&repo=dmorita00username=dmorita00&count_private=true&show_icons=true)](https://github.com/dmorita00/dmorita00)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dmorita00&repo=dmorita00&count_private=true&show_icons=true)](https://github.com/dmorita00/dmorita00)
 
 <!--
 **dmorita00/dmorita00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
