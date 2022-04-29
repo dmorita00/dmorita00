@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+My name is dmorita. 🌱
+https://dmorita00.github.io/
+
 <a href="https://github.com/dmorita00">
   <img width="430" align="left" src="https://github-readme-stats.vercel.app/api?username=dmorita00&count_private=true&show_icons=true&theme=dracula" />
 </a>
