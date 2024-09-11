@@ -1,14 +1,9 @@
 ### Hi there 👋
 
 My name is dmorita. 🌱
-https://kick-in-the-blog.com
 
-<a href="https://github.com/dmorita00">
-  <img width="430" align="left" src="https://github-readme-stats.vercel.app/api?username=dmorita00&count_private=true&show_icons=true&theme=dracula" />
-</a>
-<a href="https://github.com/dmorita00">
-  <img width="360" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dmorita00&layout=compact" />
-</a>
+<img width="430" align="left" src="https://github-readme-stats.vercel.app/api?username=dmorita00&count_private=true&show_icons=true&theme=dracula" />
+<img width="360" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dmorita00&layout=compact" />
 
 <!--
 **dmorita00/dmorita00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
